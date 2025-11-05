@@ -1,0 +1,2 @@
+# no external dependencies
+python>=3.8
